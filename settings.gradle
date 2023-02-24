@@ -12,6 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "ToasterExample"
 include ':app'
 include ':ToasterLibrary'
